@@ -8,4 +8,7 @@ The library is dimension independent, and it assumes that the steering angle for
 
 <p align="center"><img src="assets/robot.png"></p>
 
-**Video of the WCR**:
+**Video of the WCR:**
+
+https://user-images.githubusercontent.com/60363781/211517932-a48618f1-324f-4228-abff-c910f57b02d8.mp4
+
